@@ -1,4 +1,4 @@
 nationalize-client
 ==================
 
-TODO
+Megbecseljuk a fehasznalo nemzetiseget a neve alapjan
